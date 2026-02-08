@@ -2,7 +2,6 @@ def calculadora():
     print("=== CALCULADORA EM PYTHON ===")
     print("Operações disponíveis:")
     print("1 - Soma (+)")
-    print("2 - Subtração (-)")
     print("3 - Multiplicação (*)")
    
 
@@ -37,3 +36,4 @@ def calculadora():
 
 # Executa a calculadora
 calculadora()
+
