@@ -2,9 +2,8 @@ def calculadora():
     print("=== CALCULADORA EM PYTHON ===")
     print("Operações disponíveis:")
     print("1 - Soma (+)")
-    print("2 - Subtração (-)")
     print("3 - Multiplicação (*)")
-    print("4 - Divisão (/)")
+   
 
     try:
         opcao = int(input("Escolha a operação (1 a 4): "))
@@ -37,3 +36,4 @@ def calculadora():
 
 # Executa a calculadora
 calculadora()
+
